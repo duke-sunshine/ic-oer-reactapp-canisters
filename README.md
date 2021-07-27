@@ -6,10 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-`cd ic-oer-reactapp-canisters\
-
+```cd ic-oer-reactapp-canisters\
 dfx start --background\
 npm install\
 dfx deploy\
 npm start\
-`
+```
