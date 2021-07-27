@@ -7,16 +7,29 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Let's innovate on the Internet Computer.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://dfinity.org/developers/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Visit the developer center
         </a>
+        <p>
+          
+          
+        </p>
+        <a
+          className="App-link"
+          href="https://dfinity.org/technicals/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Visit the technical library
+        </a>
+
       </header>
     </div>
   );
